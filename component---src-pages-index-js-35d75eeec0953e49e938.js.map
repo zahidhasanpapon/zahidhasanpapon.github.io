@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-index-js-35d75eeec0953e49e938.js","mappings":"8JAMA,UAJkB,WAChB,OAAO","sources":["webpack://zahidhasanpapon.github.io/./src/pages/index.js"],"sourcesContent":["import * as React from \"react\";\n\nconst IndexPage = () => {\n  return <div>Hello World</div>;\n};\n\nexport default IndexPage;\n"],"names":[],"sourceRoot":""}
