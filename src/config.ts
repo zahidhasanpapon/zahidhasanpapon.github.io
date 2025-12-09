@@ -1,9 +1,9 @@
 export const SITE = {
   website: "https://zahidhasanpapon.github.io/", // deployed domain (GitHub Pages root)
-  author: "Zahid Hasan Papon",
+  author: "Zahid Hasan",
   profile: "https://github.com/zahidhasanpapon",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
+  desc: "Personal site for my work, writing, and experiments on the web.",
+  title: "Zahid Hasan",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
@@ -19,5 +19,5 @@ export const SITE = {
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
   lang: "en", // html lang code. Set this empty and default will be "en"
-  timezone: "Asia/Bangkok", // Default global timezone (IANA format) https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+  timezone: "Asia/Kuala_Lumpur", // Default global timezone (IANA format) https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 } as const;
